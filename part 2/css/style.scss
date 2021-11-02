@@ -28,6 +28,10 @@ a{
     text-decoration: none;
 }
 
+a:hover {
+    text-decoration:underline;
+}
+
 img {
     float: left;
     margin: 1.5em;
